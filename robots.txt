@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://buzatida.github.io/sitemap/sitemap_index.buzatida
+Sitemap: https://buzatida.github.io/Jkd/sitemap_index.buzatida
+Sitemap: https://buzatida.github.io/Qgl/sitemap_index.buzatida
+Sitemap: https://buzatida.github.io/lPS/sitemap_index.buzatida
+Sitemap: https://buzatida.github.io/MPW/sitemap_index.buzatida
+Sitemap: https://buzatida.github.io/ZBC/sitemap_index.buzatida
+Sitemap: https://buzatida.github.io/TSO/sitemap_index.buzatida
+Sitemap: https://buzatida.github.io/yFg/sitemap_index.buzatida
+Sitemap: https://buzatida.github.io/BaU/sitemap_index.buzatida
+Sitemap: https://buzatida.github.io/AUk/sitemap_index.buzatida
+Sitemap: https://buzatida.github.io/Euf/sitemap_index.buzatida
+Sitemap: https://buzatida.github.io/kUE/sitemap_index.buzatida
+Sitemap: https://buzatida.github.io/aHT/sitemap_index.buzatida
+Sitemap: https://buzatida.github.io/ITZ/sitemap_index.buzatida
+Sitemap: https://buzatida.github.io/SWu/sitemap_index.buzatida
+Sitemap: https://buzatida.github.io/goG/sitemap_index.buzatida
+Sitemap: https://buzatida.github.io/eoT/sitemap_index.buzatida
+Sitemap: https://buzatida.github.io/rEC/sitemap_index.buzatida
+Sitemap: https://buzatida.github.io/rbK/sitemap_index.buzatida
+Sitemap: https://buzatida.github.io/yPn/sitemap_index.buzatida
+Sitemap: https://buzatida.github.io/IPd/sitemap_index.buzatida
